@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Store\Store\bin\Debug\net8.0-windows\Store.exe
+C:\Users\PC\source\repos\Store\Store\bin\Debug\net8.0-windows\Store.deps.json
+C:\Users\PC\source\repos\Store\Store\bin\Debug\net8.0-windows\Store.runtimeconfig.json
+C:\Users\PC\source\repos\Store\Store\bin\Debug\net8.0-windows\Store.dll
+C:\Users\PC\source\repos\Store\Store\bin\Debug\net8.0-windows\Store.pdb
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.Form1.resources
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.Resources.resources
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.AssemblyInfo.vb
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.dll
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\refint\Store.dll
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.pdb
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\Store.genruntimeconfig.cache
+C:\Users\PC\source\repos\Store\Store\obj\Debug\net8.0-windows\ref\Store.dll

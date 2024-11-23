@@ -1,0 +1,5 @@
+C:\PRANSIS\lecturee.exe
+C:\PRANSIS\lecturee.dll
+C:\PRANSIS\lecturee.deps.json
+C:\PRANSIS\lecturee.runtimeconfig.json
+C:\PRANSIS\lecturee.pdb

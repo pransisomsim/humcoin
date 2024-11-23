@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\bin\Debug\net8.0-windows\lecture_finals.exe
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\bin\Debug\net8.0-windows\lecture_finals.deps.json
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\bin\Debug\net8.0-windows\lecture_finals.runtimeconfig.json
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\bin\Debug\net8.0-windows\lecture_finals.dll
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\bin\Debug\net8.0-windows\lecture_finals.pdb
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.Form1.resources
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.AssemblyInfo.vb
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.dll
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\refint\lecture_finals.dll
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.pdb
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.genruntimeconfig.cache
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\ref\lecture_finals.dll
+C:\Users\PC\source\repos\lecture_finals\lecture_finals\obj\Debug\net8.0-windows\lecture_finals.Form2.resources

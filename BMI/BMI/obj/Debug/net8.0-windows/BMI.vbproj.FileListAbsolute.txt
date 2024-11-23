@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.Form1.resources
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.Resources.resources
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.AssemblyInfo.vb
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BMI\BMI\bin\Debug\net8.0-windows\BMI.exe
+C:\Users\PC\source\repos\BMI\BMI\bin\Debug\net8.0-windows\BMI.deps.json
+C:\Users\PC\source\repos\BMI\BMI\bin\Debug\net8.0-windows\BMI.runtimeconfig.json
+C:\Users\PC\source\repos\BMI\BMI\bin\Debug\net8.0-windows\BMI.dll
+C:\Users\PC\source\repos\BMI\BMI\bin\Debug\net8.0-windows\BMI.pdb
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.dll
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\refint\BMI.dll
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.pdb
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\BMI.genruntimeconfig.cache
+C:\Users\PC\source\repos\BMI\BMI\obj\Debug\net8.0-windows\ref\BMI.dll

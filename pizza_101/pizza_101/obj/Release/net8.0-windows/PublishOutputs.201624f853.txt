@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\exam\pizza_101.exe
+C:\Users\PC\source\repos\exam\pizza_101.dll
+C:\Users\PC\source\repos\exam\pizza_101.deps.json
+C:\Users\PC\source\repos\exam\pizza_101.runtimeconfig.json
+C:\Users\PC\source\repos\exam\pizza_101.pdb

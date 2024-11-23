@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\lecturee\lecturee\bin\Release\net8.0-windows\lecturee.exe
+C:\Users\PC\source\repos\lecturee\lecturee\bin\Release\net8.0-windows\lecturee.deps.json
+C:\Users\PC\source\repos\lecturee\lecturee\bin\Release\net8.0-windows\lecturee.runtimeconfig.json
+C:\Users\PC\source\repos\lecturee\lecturee\bin\Release\net8.0-windows\lecturee.dll
+C:\Users\PC\source\repos\lecturee\lecturee\bin\Release\net8.0-windows\lecturee.pdb
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.Form1.resources
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.Form2.resources
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.AssemblyInfo.vb
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.dll
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\refint\lecturee.dll
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.pdb
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\lecturee.genruntimeconfig.cache
+C:\Users\PC\source\repos\lecturee\lecturee\obj\Release\net8.0-windows\ref\lecturee.dll

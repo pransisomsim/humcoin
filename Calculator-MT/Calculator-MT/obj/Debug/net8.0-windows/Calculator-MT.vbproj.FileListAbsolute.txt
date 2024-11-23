@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\bin\Debug\net8.0-windows\Calculator-MT.exe
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\bin\Debug\net8.0-windows\Calculator-MT.deps.json
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\bin\Debug\net8.0-windows\Calculator-MT.runtimeconfig.json
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\bin\Debug\net8.0-windows\Calculator-MT.dll
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\bin\Debug\net8.0-windows\Calculator-MT.pdb
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator_MT.Form1.resources
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator_MT.Resources.resources
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.AssemblyInfo.vb
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.dll
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\refint\Calculator-MT.dll
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.pdb
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\Calculator-MT.genruntimeconfig.cache
+C:\Users\PC\source\repos\Calculator-MT\Calculator-MT\obj\Debug\net8.0-windows\ref\Calculator-MT.dll

@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\lecture\lecture\bin\Debug\net8.0-windows\lecture.exe
+C:\Users\PC\source\repos\lecture\lecture\bin\Debug\net8.0-windows\lecture.deps.json
+C:\Users\PC\source\repos\lecture\lecture\bin\Debug\net8.0-windows\lecture.runtimeconfig.json
+C:\Users\PC\source\repos\lecture\lecture\bin\Debug\net8.0-windows\lecture.dll
+C:\Users\PC\source\repos\lecture\lecture\bin\Debug\net8.0-windows\lecture.pdb
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.Form1.resources
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.AssemblyInfo.vb
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.dll
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\refint\lecture.dll
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.pdb
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.genruntimeconfig.cache
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\ref\lecture.dll
+C:\Users\PC\source\repos\lecture\lecture\obj\Debug\net8.0-windows\lecture.Form2.resources

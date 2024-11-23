@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\BMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737D0EAA-1629-4E60-BF5B-48610363C4CE}|BMI\\BMI.vbproj|c:\\users\\pc\\source\\repos\\bmi\\bmi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{737D0EAA-1629-4E60-BF5B-48610363C4CE}|BMI\\BMI.vbproj|solutionrelative:bmi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737D0EAA-1629-4E60-BF5B-48610363C4CE}|BMI\\BMI.vbproj|c:\\users\\pc\\source\\repos\\bmi\\bmi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{737D0EAA-1629-4E60-BF5B-48610363C4CE}|BMI\\BMI.vbproj|solutionrelative:bmi\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BMI\\BMI\\Form1.vb",
+              "RelativeDocumentMoniker": "BMI\\Form1.vb",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BMI\\BMI\\Form1.vb",
+              "RelativeToolTip": "BMI\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-18T04:41:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BMI\\BMI\\Form1.vb",
+              "RelativeDocumentMoniker": "BMI\\Form1.vb",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BMI\\BMI\\Form1.vb [Design]",
+              "RelativeToolTip": "BMI\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-18T04:39:09.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
